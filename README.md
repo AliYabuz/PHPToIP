@@ -1,6 +1,6 @@
 # PHPToIP
 Simple IP &amp; HTTP User Agent Logger (PHP)
-<code><?php
+```<?php
 /*Simple IP Grabber API by Ali Yabuz*/
 
 /*Get IP Address of client as String*/
@@ -17,5 +17,5 @@ if(@strrpos(file_get_contents("ip.txt"),"IP Grabber API (c) Ali Yabuz")==!null){
 
 
 
-?></code>
+?>```
 
